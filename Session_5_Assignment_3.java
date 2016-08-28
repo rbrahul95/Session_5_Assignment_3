@@ -1,15 +1,13 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+Calculate the area of square and rectangles using
+constructor overloading.
  */
 package acadglid;
 
-/**
- *
- * @author My
- */
+//Problem 3
+
 class OverloadDemo
-{
+{       
     void area(float x)
     {
         System.out.println("the area of the square is "+Math.pow(x, 2)+" sq units");
